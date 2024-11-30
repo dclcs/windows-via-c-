@@ -6,21 +6,18 @@
 
 #define IDR_MAINFRAME			128
 #define IDD_MY01ERRORSHOW_DIALOG	102
-#define IDD_ABOUTBOX			103
+#define IDD_ERRORSHOW			103
 #define IDM_ABOUT				104
 #define IDM_EXIT				105
 #define IDI_MY01ERRORSHOW			107
 #define IDI_SMALL				108
 #define IDC_MY01ERRORSHOW			109
+#define IDC_ALWAYSONTOP                 1002
+#define IDC_ERRORCODE                   1000
+#define IDI_ERRORSHOW                   110
+#define IDC_ERRORTEXT	111
 #define IDC_MYICON				2
-#define IDD_ERRORSHOW                   1001
-#define IDI_ERRORSHOW                   1002
-#define IDC_ERRORCODE                   1003
-#define IDC_ERRORTEXT                   1004
-#define IDC_ALWAYSONTOP                 1005
-#ifndef IDC_STATIC
-#define IDC_STATIC				-1
-#endif
+#define IDC_STATIC				(-1)
 // 新对象的下一组默认值
 //
 #ifdef APSTUDIO_INVOKED

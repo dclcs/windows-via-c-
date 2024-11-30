@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\daicanglan\\Documents\\workspace\\windows-via-c\u002B\u002B\\01-ErrorShow\\",
+  "WorkspaceRootPath": "C:\\Users\\daicanglan\\Desktop\\01-ErrorShow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0937CE12-192C-40F5-8462-CF4D9A306639}|01-ErrorShow\\01-ErrorShow.vcxproj|C:\\Users\\daicanglan\\Documents\\workspace\\windows-via-c\u002B\u002B\\01-ErrorShow\\01-ErrorShow\\01-ErrorShow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0937CE12-192C-40F5-8462-CF4D9A306639}|01-ErrorShow\\01-ErrorShow.vcxproj|solutionrelative:01-ErrorShow\\01-ErrorShow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2B5BD9B3-68D4-4850-9611-D1CCEC824E54}|01-ErrorShow\\01-ErrorShow.vcxproj|C:\\Users\\daicanglan\\Desktop\\01-ErrorShow\\01-ErrorShow\\01-ErrorShow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B5BD9B3-68D4-4850-9611-D1CCEC824E54}|01-ErrorShow\\01-ErrorShow.vcxproj|solutionrelative:01-ErrorShow\\01-ErrorShow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0937CE12-192C-40F5-8462-CF4D9A306639}|01-ErrorShow\\01-ErrorShow.vcxproj|C:\\Users\\daicanglan\\Documents\\workspace\\windows-via-c\u002B\u002B\\01-ErrorShow\\01-ErrorShow\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0937CE12-192C-40F5-8462-CF4D9A306639}|01-ErrorShow\\01-ErrorShow.vcxproj|solutionrelative:01-ErrorShow\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2B5BD9B3-68D4-4850-9611-D1CCEC824E54}|01-ErrorShow\\01-ErrorShow.vcxproj|C:\\Users\\daicanglan\\Desktop\\01-ErrorShow\\01-ErrorShow\\01-ErrorShow.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B5BD9B3-68D4-4850-9611-D1CCEC824E54}|01-ErrorShow\\01-ErrorShow.vcxproj|solutionrelative:01-ErrorShow\\01-ErrorShow.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0937CE12-192C-40F5-8462-CF4D9A306639}|01-ErrorShow\\01-ErrorShow.vcxproj|C:\\Users\\daicanglan\\Documents\\workspace\\windows-via-c\u002B\u002B\\01-ErrorShow\\01-ErrorShow\\01-ErrorShow.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0937CE12-192C-40F5-8462-CF4D9A306639}|01-ErrorShow\\01-ErrorShow.vcxproj|solutionrelative:01-ErrorShow\\01-ErrorShow.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2B5BD9B3-68D4-4850-9611-D1CCEC824E54}|01-ErrorShow\\01-ErrorShow.vcxproj|C:\\Users\\daicanglan\\Desktop\\01-ErrorShow\\01-ErrorShow\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B5BD9B3-68D4-4850-9611-D1CCEC824E54}|01-ErrorShow\\01-ErrorShow.vcxproj|solutionrelative:01-ErrorShow\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B5BD9B3-68D4-4850-9611-D1CCEC824E54}|01-ErrorShow\\01-ErrorShow.vcxproj|C:\\Users\\daicanglan\\Desktop\\01-ErrorShow\\01-ErrorShow\\01-ErrorShow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B5BD9B3-68D4-4850-9611-D1CCEC824E54}|01-ErrorShow\\01-ErrorShow.vcxproj|solutionrelative:01-ErrorShow\\01-ErrorShow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Resource.h",
-              "DocumentMoniker": "C:\\Users\\daicanglan\\Documents\\workspace\\windows-via-c\u002B\u002B\\01-ErrorShow\\01-ErrorShow\\Resource.h",
+              "DocumentMoniker": "C:\\Users\\daicanglan\\Desktop\\01-ErrorShow\\01-ErrorShow\\Resource.h",
               "RelativeDocumentMoniker": "01-ErrorShow\\Resource.h",
-              "ToolTip": "C:\\Users\\daicanglan\\Documents\\workspace\\windows-via-c\u002B\u002B\\01-ErrorShow\\01-ErrorShow\\Resource.h",
+              "ToolTip": "C:\\Users\\daicanglan\\Desktop\\01-ErrorShow\\01-ErrorShow\\Resource.h",
               "RelativeToolTip": "01-ErrorShow\\Resource.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-28T15:50:27.405Z",
+              "WhenOpened": "2024-11-30T15:14:33.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "01-ErrorShow.rc",
-              "DocumentMoniker": "C:\\Users\\daicanglan\\Documents\\workspace\\windows-via-c\u002B\u002B\\01-ErrorShow\\01-ErrorShow\\01-ErrorShow.rc",
+              "DocumentMoniker": "C:\\Users\\daicanglan\\Desktop\\01-ErrorShow\\01-ErrorShow\\01-ErrorShow.rc",
               "RelativeDocumentMoniker": "01-ErrorShow\\01-ErrorShow.rc",
-              "ToolTip": "C:\\Users\\daicanglan\\Documents\\workspace\\windows-via-c\u002B\u002B\\01-ErrorShow\\01-ErrorShow\\01-ErrorShow.rc",
+              "ToolTip": "C:\\Users\\daicanglan\\Desktop\\01-ErrorShow\\01-ErrorShow\\01-ErrorShow.rc",
               "RelativeToolTip": "01-ErrorShow\\01-ErrorShow.rc",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAAwF8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwB8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-11-28T15:44:21.667Z",
+              "WhenOpened": "2024-11-30T15:13:33.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "01-ErrorShow.h",
+              "DocumentMoniker": "C:\\Users\\daicanglan\\Desktop\\01-ErrorShow\\01-ErrorShow\\01-ErrorShow.h",
+              "RelativeDocumentMoniker": "01-ErrorShow\\01-ErrorShow.h",
+              "ToolTip": "C:\\Users\\daicanglan\\Desktop\\01-ErrorShow\\01-ErrorShow\\01-ErrorShow.h",
+              "RelativeToolTip": "01-ErrorShow\\01-ErrorShow.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-30T15:06:48.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "01-ErrorShow.cpp",
-              "DocumentMoniker": "C:\\Users\\daicanglan\\Documents\\workspace\\windows-via-c\u002B\u002B\\01-ErrorShow\\01-ErrorShow\\01-ErrorShow.cpp",
+              "DocumentMoniker": "C:\\Users\\daicanglan\\Desktop\\01-ErrorShow\\01-ErrorShow\\01-ErrorShow.cpp",
               "RelativeDocumentMoniker": "01-ErrorShow\\01-ErrorShow.cpp",
-              "ToolTip": "C:\\Users\\daicanglan\\Documents\\workspace\\windows-via-c\u002B\u002B\\01-ErrorShow\\01-ErrorShow\\01-ErrorShow.cpp",
+              "ToolTip": "C:\\Users\\daicanglan\\Desktop\\01-ErrorShow\\01-ErrorShow\\01-ErrorShow.cpp",
               "RelativeToolTip": "01-ErrorShow\\01-ErrorShow.cpp",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-28T15:37:26.714Z",
+              "WhenOpened": "2024-11-30T15:06:23.404Z",
               "EditorCaption": ""
             }
           ]

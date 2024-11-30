@@ -3,16 +3,17 @@
 
 #include "framework.h"
 #include "01-ErrorShow.h"
-#include <windowsx.h>
-#define chHANDLE_DLGMSG(hWnd, message, fn)                 \
-   case (message): return (SetDlgMsgResult(hWnd, uMsg,     \
-      HANDLE_##message((hWnd), (wParam), (lParam), (fn))))
+
+/******************************************************************************
+Module:  ErrorShow.cpp
+Notices: Copyright (c) 2008 Jeffrey Richter & Christophe Nasarre
+******************************************************************************/
 
 
 #include <Windowsx.h>
 #include <tchar.h>
 #include "Resource.h"
-
+#include <windowsx.h>
 
 ///////////////////////////////////////////////////////////////////////////////
 
@@ -28,6 +29,14 @@ inline void chSETDLGICONS(HWND hWnd, int idi) {
         LoadIcon((HINSTANCE)GetWindowLongPtr(hWnd, GWLP_HINSTANCE),
             MAKEINTRESOURCE(idi)));
 }
+
+// The normal HANDLE_MSG macro in WindowsX.h does not work properly for dialog
+// boxes because DlgProc returns a BOOL instead of an LRESULT (like
+// WndProcs). This chHANDLE_DLGMSG macro corrects the problem:
+#define chHANDLE_DLGMSG(hWnd, message, fn)                 \
+   case (message): return (SetDlgMsgResult(hWnd, uMsg,     \
+      HANDLE_##message((hWnd), (wParam), (lParam), (fn))))
+
 ///////////////////////////////////////////////////////////////////////////////
 
 
@@ -150,3 +159,4 @@ int WINAPI _tWinMain(HINSTANCE hinstExe, HINSTANCE, PTSTR pszCmdLine, int) {
 
 
 //////////////////////////////// End of File //////////////////////////////////
+
